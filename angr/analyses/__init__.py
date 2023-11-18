@@ -48,3 +48,4 @@ from .flirt import FlirtAnalysis
 from .s_propagator import SPropagatorAnalysis
 from .s_reaching_definitions import SReachingDefinitionsAnalysis
 from .s_liveness import SLivenessAnalysis
+from .unpacker import PackingDetector
